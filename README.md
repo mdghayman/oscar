@@ -1,0 +1,2 @@
+# oscar
+My AI pet.
